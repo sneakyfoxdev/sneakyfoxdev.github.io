@@ -1,10 +1,14 @@
+<nav style="text-align: center; padding: 10px 0; margin-bottom: 24px; border-bottom: 1px solid #ddd; font-family: sans-serif;">
+  <a href="/" style="margin: 0 16px; text-decoration: none; color: #555; font-weight: 500;">Home</a>
+  <a href="/contact/" style="margin: 0 16px; text-decoration: none; color: #555; font-weight: 500;">Contact</a>
+  <a href="/credits/" style="margin: 0 16px; text-decoration: none; color: #555; font-weight: 500;">Credits</a>
+</nav>
+
 # SneakyFoxDev Media Credits
 
 Third-party media used across the SneakyFoxDev channel, listed with license and usage details.
 
 **Last updated:** 2026-03-05  
-**Contact:** hello@sneakyfoxdev.com  
-
 ---
 
 ## Graphics
