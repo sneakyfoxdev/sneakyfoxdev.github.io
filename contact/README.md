@@ -40,4 +40,16 @@
     <span style="font-weight: 500;">sneakyfoxdev.bsky.social</span>
   </a>
 
+  <a href="https://linktr.ee/sneakyfoxdev" target="_blank" style="display: flex; align-items: center; gap: 14px; padding: 14px 18px; border-radius: 8px; text-decoration: none; color: #fff; background: #43E55C;">
+    <i class="fa-solid fa-link" style="font-size: 1.4rem; width: 24px; text-align: center;"></i>
+    <span style="font-weight: 500;">linktr.ee/sneakyfoxdev</span>
+  </a>
+
+</div>
+
+<div style="text-align: center; margin-top: 32px; font-family: sans-serif;">
+  <p style="color: #555; margin-bottom: 12px;">Scan to visit my Linktree</p>
+  <a href="https://linktr.ee/sneakyfoxdev" target="_blank">
+    <img src="../images/linktree.png" alt="Linktree QR Code" style="width: 180px; height: 180px; border-radius: 12px;">
+  </a>
 </div>
