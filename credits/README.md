@@ -2,34 +2,8 @@
 
 Third-party media used across the SneakyFoxDev channel, listed with license and usage details.
 
-**Last updated:** 2026-02-28  
+**Last updated:** 2026-03-05  
 **Contact:** hello@sneakyfoxdev.com  
-
----
-
-## Video & Photo Credits
-
-### [Asset Title]  
-**Type:** Video/Photo  
-
-- **Creator:** [Full Name or Username]  
-- **Source:** [Direct URL to asset page]  
-- **License:** [License Name]  
-  - [Full license URL]  
-- **Modifications:** [e.g., trimmed, cropped, color graded, composited]  
-- **Used in:** [e.g., Plant Automation Episodes 1–5] · [optional: links to videos]
-
----
-
-### Plant intro establishing clip (example)  
-**Type:** Video  
-
-- **Creator:** [Creator name]  
-- **Source:** [URL]  
-- **License:** Pexels License  
-  - https://www.pexels.com/license/  
-- **Modifications:** Trimmed to 2.5s, color graded to match series intro.  
-- **Used in:** Plant Automation Series intro sequence  
 
 ---
 
@@ -85,3 +59,4 @@ Third-party media used across the SneakyFoxDev channel, listed with license and 
 
 © 2026 SneakyFoxDev.  
 This page lists third-party media and associated licenses.
+
