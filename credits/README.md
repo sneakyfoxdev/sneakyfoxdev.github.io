@@ -55,11 +55,11 @@ Third-party media used across the SneakyFoxDev channel, listed with license and 
 
 ### left-arrow-direction-information
 
-- **Creator:** [clker-free-vector-images](https://pixabay.com/users/clker-free-vector-images-3736/)
+- **Creator:** [Clker-Free-Vector-Images](https://pixabay.com/users/clker-free-vector-images-3736/)
 - **Source:** [left-arrow-direction-information](https://pixabay.com/vectors/left-arrow-direction-information-44037/)
 - **License:** [Pixabay Content License](https://pixabay.com/service/license-summary/)
 - **Modifications:** Change in color and direction.
-- **Used in:** Plant Station - Episode 1: Thumbnail Candidates
+- **Used in:** Plant Station - Episode 1: Thumbnail Candidates; Plant Station - Episode 3: Thumbnail Candidates
 
 ### family-parents-toddler-first-steps
 
@@ -76,6 +76,22 @@ Third-party media used across the SneakyFoxDev channel, listed with license and 
 - **License:** [Pixabay Content License](https://pixabay.com/service/license-summary/)
 - **Modifications:** None.
 - **Used in:** Plant Station - Episode 1: Thumbnail Candidates.
+
+### button-switch-on-off-red-alarm
+
+- **Creator:** [OpenClipart-Vectors](https://pixabay.com/users/openclipart-vectors-30363/)
+- **Source:** [button-switch-on-off-red-alarm](https://pixabay.com/vectors/button-switch-on-off-red-alarm-575656/)
+- **License:** [Pixabay Content License](https://pixabay.com/service/license-summary/)
+- **Modifications:** None.
+- **Used in:** Plant Station - Episode 3: Thumbnail Candidates
+
+### check-correct-tick-sign-mark
+
+- **Creator:** [Clker-Free-Vector-Images](https://pixabay.com/users/clker-free-vector-images-3736/)
+- **Source:** [check-correct-tick-sign-mark](https://pixabay.com/vectors/check-correct-tick-sign-mark-305421/)
+- **License:** [Pixabay Content License](https://pixabay.com/service/license-summary/)
+- **Modifications:** Changed color to green.
+- **Used in:** Plant Station - Episode 3: Thumbnail Candidates
 
 ### youtube-subscribe-button
 
